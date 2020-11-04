@@ -1,0 +1,171 @@
+
+---- Processing WordPress Page - for Gutenberg ---- "14"
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/ld2.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/ld2.jpg
+Log - {"url":"https:\/\/websitedemos.net\/learndash-academy-08\/wp-content\/uploads\/sites\/691\/2019\/06\/ld2.jpg","id":0}
+Inserted - Post 15 - attachment - ld2.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/ld2.jpg
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2020/09/training.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2020/09/training.png
+Log - {"url":"https:\/\/websitedemos.net\/learndash-academy-08\/wp-content\/uploads\/sites\/691\/2020\/09\/training.png","id":0}
+Inserted - Post 16 - attachment - training.png
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/training.png
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2020/09/interesting-puzzles.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2020/09/interesting-puzzles.png
+Log - {"url":"https:\/\/websitedemos.net\/learndash-academy-08\/wp-content\/uploads\/sites\/691\/2020\/09\/interesting-puzzles.png","id":0}
+Inserted - Post 17 - attachment - interesting-puzzles.png
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/interesting-puzzles.png
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2020/09/pro-material.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2020/09/pro-material.png
+Log - {"url":"https:\/\/websitedemos.net\/learndash-academy-08\/wp-content\/uploads\/sites\/691\/2020\/09\/pro-material.png","id":0}
+Inserted - Post 18 - attachment - pro-material.png
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/pro-material.png
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/manager-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/manager-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/learndash-academy-08\/wp-content\/uploads\/sites\/691\/2019\/06\/manager-free-img.png","id":0}
+Inserted - Post 19 - attachment - manager-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/manager-free-img.png
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/logos-03-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/logos-03-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/learndash-academy-08\/wp-content\/uploads\/sites\/691\/2019\/06\/logos-03-free-img.png","id":0}
+Inserted - Post 20 - attachment - logos-03-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/logos-03-free-img.png
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/logos-02-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/logos-02-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/learndash-academy-08\/wp-content\/uploads\/sites\/691\/2019\/06\/logos-02-free-img.png","id":0}
+Inserted - Post 21 - attachment - logos-02-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/logos-02-free-img.png
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/logos-04-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/logos-04-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/learndash-academy-08\/wp-content\/uploads\/sites\/691\/2019\/06\/logos-04-free-img.png","id":0}
+Inserted - Post 22 - attachment - logos-04-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/logos-04-free-img.png
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/logos-01-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/logos-01-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/learndash-academy-08\/wp-content\/uploads\/sites\/691\/2019\/06\/logos-01-free-img.png","id":0}
+---- Processing WordPress Page - for Gutenberg ---- "14"
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/ld2.jpg
+Log - {"id":"15","url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/11\/ld2.jpg"}
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2020/09/training.png
+Log - {"id":"16","url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/11\/training.png"}
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2020/09/interesting-puzzles.png
+Log - {"id":"17","url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/11\/interesting-puzzles.png"}
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2020/09/pro-material.png
+Log - {"id":"18","url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/11\/pro-material.png"}
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/manager-free-img.png
+Log - {"id":"19","url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/11\/manager-free-img.png"}
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/logos-03-free-img.png
+Log - {"id":"20","url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/11\/logos-03-free-img.png"}
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/logos-02-free-img.png
+Log - {"id":"21","url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/11\/logos-02-free-img.png"}
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/logos-04-free-img.png
+Log - {"id":"22","url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/11\/logos-04-free-img.png"}
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/logos-01-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/06/logos-01-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/learndash-academy-08\/wp-content\/uploads\/sites\/691\/2019\/06\/logos-01-free-img.png","id":0}
+Inserted - Post 26 - attachment - logos-01-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/logos-01-free-img.png
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/05/testimonial4-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/05/testimonial4-free-img.jpg
+Log - {"url":"https:\/\/websitedemos.net\/learndash-academy-08\/wp-content\/uploads\/sites\/691\/2019\/05\/testimonial4-free-img.jpg","id":0}
+Inserted - Post 27 - attachment - testimonial4-free-img.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/testimonial4-free-img.jpg
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/05/testimonial1-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/05/testimonial1-free-img.jpg
+Log - {"url":"https:\/\/websitedemos.net\/learndash-academy-08\/wp-content\/uploads\/sites\/691\/2019\/05\/testimonial1-free-img.jpg","id":0}
+Inserted - Post 28 - attachment - testimonial1-free-img.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/testimonial1-free-img.jpg
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/05/testimonial3-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/05/testimonial3-free-img.jpg
+Log - {"url":"https:\/\/websitedemos.net\/learndash-academy-08\/wp-content\/uploads\/sites\/691\/2019\/05\/testimonial3-free-img.jpg","id":0}
+Inserted - Post 29 - attachment - testimonial3-free-img.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/testimonial3-free-img.jpg
+Source - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/05/testimonial2-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/learndash-academy-08/wp-content/uploads/sites/691/2019/05/testimonial2-free-img.jpg
+Log - {"url":"https:\/\/websitedemos.net\/learndash-academy-08\/wp-content\/uploads\/sites\/691\/2019\/05\/testimonial2-free-img.jpg","id":0}
+Inserted - Post 30 - attachment - testimonial2-free-img.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/testimonial2-free-img.jpg
+---- Processing WordPress Page - for Gutenberg ---- "23"
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/02/bg-01-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/02/bg-01-free-img.jpg
+Log - {"url":"https:\/\/websitedemos.net\/online-courses-08\/wp-content\/uploads\/sites\/722\/2020\/02\/bg-01-free-img.jpg","id":0}
+Inserted - Post 32 - attachment - bg-01-free-img.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/bg-01-free-img.jpg
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/background1.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/background1.jpg
+Log - {"url":"https:\/\/websitedemos.net\/online-courses-08\/wp-content\/uploads\/sites\/722\/2020\/10\/background1.jpg","id":0}
+Inserted - Post 33 - attachment - background1.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/background1.jpg
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/5stars-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/5stars-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/online-courses-08\/wp-content\/uploads\/sites\/722\/2020\/10\/5stars-free-img.png","id":0}
+Inserted - Post 34 - attachment - 5stars-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/5stars-free-img.png
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-01.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-01.jpg
+Log - {"url":"https:\/\/websitedemos.net\/online-courses-08\/wp-content\/uploads\/sites\/722\/2020\/10\/online-programming-course-review-01.jpg","id":0}
+Inserted - Post 35 - attachment - online-programming-course-review-01.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/online-programming-course-review-01.jpg
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-02.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-02.jpg
+Log - {"url":"https:\/\/websitedemos.net\/online-courses-08\/wp-content\/uploads\/sites\/722\/2020\/10\/online-programming-course-review-02.jpg","id":0}
+Inserted - Post 36 - attachment - online-programming-course-review-02.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/online-programming-course-review-02.jpg
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-03.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-03.jpg
+Log - {"url":"https:\/\/websitedemos.net\/online-courses-08\/wp-content\/uploads\/sites\/722\/2020\/10\/online-programming-course-review-03.jpg","id":0}
+Inserted - Post 37 - attachment - online-programming-course-review-03.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/online-programming-course-review-03.jpg
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-04.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-04.jpg
+Log - {"url":"https:\/\/websitedemos.net\/online-courses-08\/wp-content\/uploads\/sites\/722\/2020\/10\/online-programming-course-review-04.jpg","id":0}
+---- Processing WordPress Page - for Gutenberg ---- "23"
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/02/bg-01-free-img.jpg
+Log - {"id":"32","url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/11\/bg-01-free-img.jpg"}
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/background1.jpg
+Log - {"id":"33","url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/11\/background1.jpg"}
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/5stars-free-img.png
+Log - {"id":"34","url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/11\/5stars-free-img.png"}
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-01.jpg
+Log - {"id":"35","url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/11\/online-programming-course-review-01.jpg"}
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-02.jpg
+Log - {"id":"36","url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/11\/online-programming-course-review-02.jpg"}
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-03.jpg
+Log - {"id":"37","url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/11\/online-programming-course-review-03.jpg"}
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-04.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-04.jpg
+Log - {"url":"https:\/\/websitedemos.net\/online-courses-08\/wp-content\/uploads\/sites\/722\/2020\/10\/online-programming-course-review-04.jpg","id":0}
+Inserted - Post 38 - attachment - online-programming-course-review-04.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/online-programming-course-review-04.jpg
+Complete 
+---- Processing WordPress Page - for Gutenberg ---- "40"
+Source - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/04/landscape-mountains-sky-4843193.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/04/landscape-mountains-sky-4843193.jpg
+Log - {"url":"https:\/\/websitedemos.net\/mountain-08\/wp-content\/uploads\/sites\/584\/2020\/04\/landscape-mountains-sky-4843193.jpg","id":0}
+Inserted - Post 41 - attachment - landscape-mountains-sky-4843193.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/landscape-mountains-sky-4843193.jpg
+Source - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/08/fog-in-mountain.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/08/fog-in-mountain.jpg
+Log - {"url":"https:\/\/websitedemos.net\/mountain-08\/wp-content\/uploads\/sites\/584\/2020\/08\/fog-in-mountain.jpg","id":0}
+Inserted - Post 42 - attachment - fog-in-mountain.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/fog-in-mountain.jpg
+Source - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/04/snowy-mountain-1287145.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/04/snowy-mountain-1287145.jpg
+Log - {"url":"https:\/\/websitedemos.net\/mountain-08\/wp-content\/uploads\/sites\/584\/2020\/04\/snowy-mountain-1287145.jpg","id":0}
+Inserted - Post 43 - attachment - snowy-mountain-1287145.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/snowy-mountain-1287145.jpg
+Source - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/04/photo-of-people-standing-on-top-of-mountain-near-grasses-733162.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/04/photo-of-people-standing-on-top-of-mountain-near-grasses-733162.jpg
+Log - {"url":"https:\/\/websitedemos.net\/mountain-08\/wp-content\/uploads\/sites\/584\/2020\/04\/photo-of-people-standing-on-top-of-mountain-near-grasses-733162.jpg","id":0}
+Inserted - Post 44 - attachment - photo-of-people-standing-on-top-of-mountain-near-grasses-733162.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/photo-of-people-standing-on-top-of-mountain-near-grasses-733162.jpg
+Source - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/04/fogs-on-green-mountain-1054222.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/04/fogs-on-green-mountain-1054222.jpg
+Log - {"url":"https:\/\/websitedemos.net\/mountain-08\/wp-content\/uploads\/sites\/584\/2020\/04\/fogs-on-green-mountain-1054222.jpg","id":0}
+Inserted - Post 45 - attachment - fogs-on-green-mountain-1054222.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/fogs-on-green-mountain-1054222.jpg
+Source - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/04/logo1-dark.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/04/logo1-dark.png
+Log - {"url":"https:\/\/websitedemos.net\/mountain-08\/wp-content\/uploads\/sites\/584\/2020\/04\/logo1-dark.png","id":0}
+Inserted - Post 46 - attachment - logo1-dark.png
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2020/11/logo1-dark.png
